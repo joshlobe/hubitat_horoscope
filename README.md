@@ -5,6 +5,8 @@
 - [Repo](https://github.com/joshlobe/hubitat_horoscope "hubitat_horoscope Repo")
 
 #### Screenshots
+![Dashboard](dashboard.jpg)
+![Preferences](preferences.jpg)
 
 #### Features
 - Display a daily horoscope on any dashboard.
