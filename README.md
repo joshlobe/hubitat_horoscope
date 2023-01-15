@@ -39,6 +39,11 @@ This driver uses information provided from the free public API of Aztro.
 - Finally, visit any dashboard.
 - Add a new tile, select the custom device created earlier, and `Attribute` as the template.
 - Select `tilehtml` for the full display of the horoscope.
+
+#### Schedules
+When the device is created, a schedule is set to run once a day at midnight.
+This will call the API to get fresh horoscope data.
+To remove the schedule, simply uninstall the device.
  
 #### Recommendations
 - It is suggested to use a tile at least 2 x 2 (under normal styling conditions).
