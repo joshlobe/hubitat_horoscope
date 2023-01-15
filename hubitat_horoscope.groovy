@@ -4,7 +4,7 @@
 
 // Define driver metadata
 metadata {
-    definition( name: "Horoscope Generator", namespace: "horoscope_jlobe", author: "jlobe", importUrl: "" ) {
+    definition( name: "Horoscope Generator", namespace: "horoscope_jlobe", author: "jlobe", importUrl: "https://raw.githubusercontent.com/joshlobe/hubitat_horoscope/main/hubitat_horoscope.groovy" ) {
         // Driver capabilities (driver will not show under devices in tile creation unless it has at least one capability)
         capability "Refresh"
         // Driver attributes
